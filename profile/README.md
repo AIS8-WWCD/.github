@@ -11,10 +11,10 @@
 * WWCD 
 
 #### 팀원 소개
-1. 김건
-2. 김미리
-3. 용민규
-4. 이호연
+1. 김 건 https://github.com/bark20
+2. 김미리 https://github.com/MilKim0818
+3. 용민규 https://github.com/dydrb
+4. 이호연 https://github.com/tjmoh23 
 
 
 
